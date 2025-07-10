@@ -131,6 +131,14 @@ Navigate to the **History** page and click the **“Export”** button to downlo
 🔗 Live Deployment: [vamtimerapp.netlify.app](https://vamtimerapp.netlify.app)
 
 ---
+## 📬 Contact
+
+**Developed by:** Vamshikrishna Thogaru  
+📧 Email: [t.vamshikrishna2@gmail.com](mailto:t.vamshikrishna2@gmail.com)  
+🔗 GitHub: [github.com/Vammshi2](https://github.com/Vammshi2)  
+🔗 Live Deployment: [vamtimerapp.netlify.app](https://vamtimerapp.netlify.app)
+
+---
 
 ## 🧪 How to Clone and Run the App Locally
 
@@ -146,5 +154,3 @@ npm install
 
 # 4️⃣ Start the Development Server
 npm run dev
-```
-
