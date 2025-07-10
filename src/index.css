@@ -1,0 +1,65 @@
+/* Very basic CSS reset and simple styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  line-height: 1.4;
+}
+
+/* Basic button styles */
+button {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #e5e5e5;
+}
+
+button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+  color: #999;
+}
+
+/* Basic input styles */
+input, select {
+  font-size: 14px;
+  border: 1px solid #ccc;
+  padding: 4px;
+}
+
+input:focus, select:focus {
+  outline: 2px solid #0066cc;
+  outline-offset: 1px;
+}
+
+/* Basic link styles */
+a {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Simple responsive behavior */
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+  
+  button {
+    font-size: 12px;
+    padding: 4px 8px;
+  }
+}
