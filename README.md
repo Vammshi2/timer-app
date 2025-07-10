@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # ⏱️ Timer App – HealthFlex Assignment
 
 A fully functional **React + TypeScript** web application created for the **HealthFlex Assignment**. This app enables users to add, manage, and track multiple customizable timers with features like grouped categories, progress visualization, history tracking, and optional alerts — all built using modern React practices and Tailwind CSS.
